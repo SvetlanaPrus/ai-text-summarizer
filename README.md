@@ -16,12 +16,19 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Install the library to work with the API:
+## My notes:
+
+## 1. Install the library to work with the API:
 
 ```bash
 npm install openai
 ```
 
-## Add an API key:
+## 2. Add an API key:
 
 .env.local
+
+## Why?
+
+Inspired by DeepLearning.AI's "Prompt Engineering for Developers" course:
+https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction
